@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakan</h1>
 <h3 align="center">A passionate Software Engineer who's currently based in Jordan</h3>
 	
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
-</p>
 
 - 🌱 I’m currently learning about **Advnaced Software Engineering concepts**
 
